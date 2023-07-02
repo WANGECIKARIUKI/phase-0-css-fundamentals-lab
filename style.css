@@ -3,3 +3,42 @@ body {
   height: 100%;
   margin: 0;
 }
+
+h1 {
+  text-align: center;
+}
+
+img {
+  margin-left: center;
+  margin-rigt: center;
+}
+
+nav {
+  text-align: center;
+  padding: 10px;
+  background: grey;
+}
+
+img {
+  font-size: 1.5em;
+  text-align: center;
+}
+
+#featured-property {
+  text-align: center;
+  width: 800px;
+}
+
+p {
+  vertical-align: auto;
+}
+
+div {
+  float: left;
+}
+
+div {
+  background: yellow;
+  text-align: center;
+  width: 200px;
+}
